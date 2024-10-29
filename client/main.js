@@ -1,1 +1,1 @@
-const a = "hello";
+alert("광고창!!!");
