@@ -1,1 +1,13 @@
-alert("광고창!!!");
+
+
+const a = "hello";
+
+
+
+
+function sum() {
+
+  console.log(1 + 2);
+
+
+}
